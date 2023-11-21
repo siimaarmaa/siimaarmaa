@@ -12,7 +12,7 @@ Hi, I'm Siim Aarmaa 😉, a hobby programmer 👨🏻‍💻 from Estonia :eston
 - 💼 I’m pursuing a M.S.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via siim@aarmaa.ee to reach me.
-- 👀 See my [Curriculum Vitae](https://cv.aarmaa.ee) to get more info.
+- 👀 See my [Home page](https://aarmaa.ee) to get more info.
 - :recycle: See my snippets [in Gist](https://gist.github.com/siimaarmaa)
 
 ⭐️ From [Aarmaa](https://github.com/siimaarmaa)
