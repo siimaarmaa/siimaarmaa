@@ -1,6 +1,6 @@
 ### Welcome to Aarmaa's Hut 👋
 
-Hi, I'm Siim Aarmaa 😉, a hobby programmer 👨🏻‍💻 from Estonia :estonia:. I'm an open-source profession and always develop in Python or PHP 🐍. Currently, I'm working on [siimaarmaa/Discord-Bot-Siim-Leak-Basic](https://github.com/siimaarmaa/Discord-Bot-Siim-Leak-Basic). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing some sports things 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Siim Aarmaa 😉, a hobby programmer 👨🏻‍💻 from Estonia :estonia:. I'm an open-source profession and always develop in Python or PHP 🐍. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing some sports things 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
