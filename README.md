@@ -6,7 +6,7 @@ Hi, I'm Siim Aarmaa 😉, a hobby programmer 👨🏻‍💻 from Estonia :eston
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [siimaarmaa/Discord-Bot-Siim-Leak-Basic](https://github.com/siimaarmaa/Discord-Bot-Siim-Leak-Basic).
+- 👨🏻‍💻 I’m currently working on finding new project
 - 🌱 I’m currently learning PHP, Go, JavaScript and Python.
 - 🤔 My research interests are with Ethical Hacking, Kubernetes, etc.
 - 💼 I’m pursuing a M.S.
