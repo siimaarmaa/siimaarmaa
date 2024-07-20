@@ -1,6 +1,6 @@
 # Hi there, I'm Siim Aarmaa 👋
 
-!Profile Views
+![](https://komarev.com/ghpvc/?username=siimaarmaa)
 
 ## 🚀 About Me
 I'm a passionate Developer/DevOps Engineer with a love for building scalable and efficient systems. I enjoy working on both frontend and backend projects, and I'm always eager to learn new technologies.
