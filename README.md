@@ -24,7 +24,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 !Your GitHub Stats
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=siimaarmaa)
+![trophy](https://github-profile-trophy.vercel.app/?username=siimaarmaa&no-frame=true)
 
 ## 📊 Top Languages
 !Top Langs
