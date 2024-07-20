@@ -30,9 +30,9 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - Project 3 - Brief description of Project 3
 
 ## 🤝 Support
-If you like my work, consider buying me a coffee!
-
-!Buy Me A Coffee
+If you like my work, consider buying me a coffee! \
+\
+[![Buy me a coffee](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=58FLD9VRHNF9E)
 
 ## Collaborative partner
 [![Veebimajutus.ee](https://altgr.ee/veebimajutus-partner-badge-2.svg)](https://www.veebimajutus.ee/promokood/ALTGR)
