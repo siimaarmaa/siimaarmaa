@@ -16,7 +16,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - **Languages**: [List of Languages]
 - **Frameworks**: [List of Frameworks]
 - **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
-- **Cloud**: [AWS, Azure, GCP, etc.]
+- **Cloud**: [DigitalOcean](https://m.do.co/c/a661120babe7)
 - **CI/CD**: GitHub Actions, Bamboo
 - **Containers**: Docker, Kubernetes, Cloud Foundry
 
