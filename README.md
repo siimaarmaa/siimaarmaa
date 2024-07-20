@@ -9,7 +9,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - 🌱 I’m currently learning [Technology/Tool]
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topic]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: info@altgr.ee
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Skills
@@ -23,7 +23,6 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 ## 📫 Connect with Me
 - LinkedIn - https://www.linkedin.com/in/siimaarmaa/
 - Personal Website/Blog -  https://altgr.ee
-- E-mail - info@altgr.ee or siim@altgr.ee
 
 ## 📚 Projects
 - Project 1 - Brief description of Project 1
