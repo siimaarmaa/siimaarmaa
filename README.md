@@ -20,32 +20,15 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - **CI/CD**: [Jenkins, GitHub Actions, etc.]
 - **Containers**: [Docker, Kubernetes, etc.]
 
-## 📈 GitHub Stats
-!Your GitHub Stats
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=siimaarmaa&no-frame=true)
-
-## 📊 Top Languages
-!Top Langs
-
 ## 📫 Connect with Me
 - LinkedIn - https://www.linkedin.com/in/siimaarmaa/
 - Personal Website/Blog -  https://altgr.ee
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- E-mail - info@altgr.ee or siim@altgr.ee
 
 ## 📚 Projects
 - Project 1 - Brief description of Project 1
 - Project 2 - Brief description of Project 2
 - Project 3 - Brief description of Project 3
-
-## 🏅 Achievements
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
 
 ## 🤝 Support
 If you like my work, consider buying me a coffee!
