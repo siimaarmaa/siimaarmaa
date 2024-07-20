@@ -15,10 +15,10 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 ## 🛠️ Skills
 - **Languages**: [List of Languages]
 - **Frameworks**: [List of Frameworks]
-- **Tools**: Jetbrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
+- **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
 - **Cloud**: [AWS, Azure, GCP, etc.]
-- **CI/CD**: [Jenkins, GitHub Actions, etc.]
-- **Containers**: [Docker, Kubernetes, etc.]
+- **CI/CD**: GitHub Actions, Bamboo
+- **Containers**: Docker, Kubernetes, Cloud Foundry
 
 ## 📫 Connect with Me
 - LinkedIn - https://www.linkedin.com/in/siimaarmaa/
