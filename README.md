@@ -24,7 +24,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 !Your GitHub Stats
 
 ## 🏆 GitHub Trophies
-!trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=siimaarmaa)](https://github.com/siimaarmaa/github-profile-trophy)
 
 ## 📊 Top Languages
 !Top Langs
@@ -53,5 +53,3 @@ If you like my work, consider buying me a coffee!
 !Buy Me A Coffee
 
 ---
-
-⭐️ From Your Name
