@@ -15,7 +15,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 ## 🛠️ Skills
 - **Languages**: [List of Languages]
 - **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools]
+- **Tools**: Jetbrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
 - **Cloud**: [AWS, Azure, GCP, etc.]
 - **CI/CD**: [Jenkins, GitHub Actions, etc.]
 - **Containers**: [Docker, Kubernetes, etc.]
