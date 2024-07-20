@@ -35,6 +35,6 @@ If you like my work, consider buying me a coffee!
 !Buy Me A Coffee
 
 ## Collaborative partner
-[Google Doc](https://docs.google.com/drawings/d/1B95ajItJTAImL2WXISX0fkBLYk3nldea4Vm9eo-VyE4/edit) :
+[Veebimajutus.ee](https://www.veebimajutus.ee/promokood/ALTGR)
 
 ---
