@@ -1,17 +1,58 @@
-### Welcome to Aarmaa's Hut 👋
+# Hi there, I'm [Your Name] 👋
 
-Hi, I'm Siim Aarmaa 😉, a hobby programmer 👨🏻‍💻 from Estonia :estonia:. I'm an open-source profession and always develop in Python or PHP 🐍. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing some sports things 🏃⛹️‍♂️🏋🏼‍♂️.
+!Profile Views
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+## 🚀 About Me
+I'm a passionate Developer/DevOps Engineer with a love for building scalable and efficient systems. I enjoy working on both frontend and backend projects, and I'm always eager to learn new technologies.
 
-**Current Status Quo**
+- 🔭 I’m currently working on [Your Project]
+- 🌱 I’m currently learning [Technology/Tool]
+- 👯 I’m looking to collaborate on [Project/Technology]
+- 💬 Ask me about [Topic]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
 
-- 👨🏻‍💻 I’m currently working on finding new project
-- 🌱 I’m currently learning PHP, Go, JavaScript and Python.
-- 🤔 My research interests are with Ethical Hacking, Kubernetes, etc.
-- 💼 I’m pursuing a M.S.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via siim@aarmaa.ee to reach me.
-- 👀 See my [Home page](https://aarmaa.ee) to get more info.
+## 🛠️ Skills
+- **Languages**: [List of Languages]
+- **Frameworks**: [List of Frameworks]
+- **Tools**: [List of Tools]
+- **Cloud**: [AWS, Azure, GCP, etc.]
+- **CI/CD**: [Jenkins, GitHub Actions, etc.]
+- **Containers**: [Docker, Kubernetes, etc.]
 
-⭐️ From [Aarmaa](https://github.com/siimaarmaa)
+## 📈 GitHub Stats
+!Your GitHub Stats
+
+## 🏆 GitHub Trophies
+!trophy
+
+## 📊 Top Languages
+!Top Langs
+
+## 📫 Connect with Me
+- LinkedIn
+- Twitter
+- Personal Website/Blog
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📚 Projects
+- Project 1 - Brief description of Project 1
+- Project 2 - Brief description of Project 2
+- Project 3 - Brief description of Project 3
+
+## 🏅 Achievements
+- [Achievement 1]
+- [Achievement 2]
+- [Achievement 3]
+
+## 🤝 Support
+If you like my work, consider buying me a coffee!
+
+!Buy Me A Coffee
+
+---
+
+⭐️ From Your Name
