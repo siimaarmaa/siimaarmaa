@@ -35,6 +35,7 @@ If you like my work, consider buying me a coffee!
 !Buy Me A Coffee
 
 ## Collaborative partner
-
+![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 
 ---
