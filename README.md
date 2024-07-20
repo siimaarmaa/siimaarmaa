@@ -1,4 +1,4 @@
-# Hi there, I'm @siimaarmaa 👋
+# Hi there, I'm Siim Aarmaa 👋
 
 !Profile Views
 
@@ -30,9 +30,8 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 !Top Langs
 
 ## 📫 Connect with Me
-- LinkedIn
-- Twitter
-- Personal Website/Blog
+- LinkedIn - https://www.linkedin.com/in/siimaarmaa/
+- Personal Website/Blog -  https://altgr.ee
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
