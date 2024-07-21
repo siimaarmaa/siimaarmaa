@@ -14,7 +14,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 
 ## 🛠️ Skills
 - **Languages**: [List of Languages]
-- **Frameworks**: [List of Frameworks]
+- **Frameworks**: Django
 - **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
 - **Cloud**: [DigitalOcean](https://m.do.co/c/a661120babe7)
 - **CI/CD**: GitHub Actions, Bamboo
