@@ -13,7 +13,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Skills
-- **Languages**: [List of Languages]
+- **Languages**: Python (learing mode) & JavaScript (learing mode)
 - **Frameworks**: Django
 - **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
 - **Cloud**: [DigitalOcean](https://m.do.co/c/a661120babe7)
