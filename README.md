@@ -9,7 +9,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 - 🌱 I’m currently learning Python, Javasscript and Ansible
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topic]
-- 📫 How to reach me: E-mail: info@altgr.ee or Discord: siimleaks
+- 📫 How to reach me: E-mail: info@altgr.ee or Discord: [siimleaks](https://discord.gg/bpqagHn5sD)
 - ⚡ Fun fact: Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.
 
 ## 🛠️ Skills
