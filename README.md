@@ -35,6 +35,6 @@ If you like my work, consider buying me a coffee! \
 [![Buy me a coffee](PILT)](LINK)
 
 ## Collaborative partner
-[![Veebimajutus.ee](https://altgr.ee/veebimajutus-partner-badge-2.svg)](https://www.veebimajutus.ee/promokood/ALTGR)
+[![Veebimajutus.ee](https://github.com/siimaarmaa/siimaarmaa/blob/main/veebimajutus-partner-badge-2.svg)](https://www.veebimajutus.ee/promokood/ALTGR)
 
 ---
