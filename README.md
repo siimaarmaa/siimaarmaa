@@ -6,7 +6,7 @@
 I'm a passionate Developer/DevOps Engineer with a love for building scalable and efficient systems. I enjoy working on both frontend and backend projects, and I'm always eager to learn new technologies.
 
 - 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning Python, Javasscript and Ansible
+- 🌱 I’m currently learning Python, Javasscript & Ansible
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topic]
 - 📫 How to reach me: E-mail: info@altgr.ee or Discord: [siimleaks](https://discord.gg/bpqagHn5sD)
@@ -15,10 +15,10 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 ## 🛠️ Skills
 - **Languages**: Python (learing mode), PHP (learing mode) & JavaScript (learing mode)
 - **Frameworks**: Django
-- **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition)
+- **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition) & VSCode
 - **Cloud**: [DigitalOcean](https://m.do.co/c/a661120babe7)
-- **CI/CD**: GitHub Actions, Bamboo
-- **Containers**: Docker, Kubernetes, Cloud Foundry
+- **CI/CD**: GitHub Actions
+- **Containers**: Docker & Kubernetes
 
 ## 📫 Connect with Me
 - LinkedIn - https://www.linkedin.com/in/siimaarmaa/
