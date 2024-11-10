@@ -14,7 +14,7 @@ I'm a passionate Developer/DevOps Engineer with a love for building scalable and
 
 ## 🛠️ Skills
 - **Languages**: Python (learing mode), PHP (learing mode) & JavaScript (learing mode)
-- **Frameworks**: Django
+- **Frameworks**: Django & Laravel
 - **Tools**: JetBrains (PyCharm Community Edition & IntelliJ IDEA Community Edition) & VSCode
 - **Cloud**: [DigitalOcean](https://m.do.co/c/a661120babe7)
 - **CI/CD**: GitHub Actions
