@@ -6,11 +6,11 @@
 I'm a passionate Developer/DevOps Engineer with a love for building scalable and efficient systems. I enjoy working on both frontend and backend projects, and I'm always eager to learn new technologies.
 
 - 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Technology/Tool]
+- 🌱 I’m currently learning Python, Javasscript and Ansible
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topic]
-- 📫 How to reach me: info@altgr.ee
-- ⚡ Fun fact: [Something Interesting About You]
+- 📫 How to reach me: E-mail: info@altgr.ee or Discord: siimleaks
+- ⚡ Fun fact: Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.
 
 ## 🛠️ Skills
 - **Languages**: Python (learing mode), PHP (learing mode) & JavaScript (learing mode)
