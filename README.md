@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Siim Aarmaa
 
 ### 💻 Developer | 🛠️ System Administrator | 🚀 DevOps Engineer
 
@@ -42,8 +42,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siimaarmaa&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimaarmaa&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
