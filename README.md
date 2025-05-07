@@ -62,7 +62,7 @@ Let's connect — I'm open to interesting projects, collaborations, or DevOps ch
 
 - 📧 Email: [you@example.com](mailto:you@example.com)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💬 LinkedIn: [linkedin.com/in/siimaarmaa](https://www.linkedin.com/in/siimaarmaa/)
 
 ---
 
