@@ -1,69 +1,69 @@
-# Hi there 👋 I'm Siim Aarmaa
+# 👋 Hey there, I'm [Your Name]
 
-## 🚀 DevOps Engineer | 💻 Developer | ☁️ Cloud Architect
+### 💻 Developer | 🛠️ System Administrator | 🚀 DevOps Engineer
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
-
-**Code • Deploy • Automate • Repeat** 🔁
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-you@example.com-red?style=flat-square&logo=gmail)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
 
-### 🔧 Technologies & Tools
+## 🧰 Tech Stack
 
-#### 🛠️ DevOps Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+**Languages & Tools:**
 
-#### 💻 Development
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+```
+💡 Bash | 🐍 Python | ☕ Java | ⚙️ Ansible | 🐳 Docker | ☸️ Kubernetes | 🌐 NGINX | 🛠️ Terraform | 📦 Git | 🐧 Linux | 🧪 CI/CD | 📡 Prometheus + Grafana
+```
 
----
-
-### 📈 GitHub Stats
-
-<a href="https://github.com/yourusername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a href="https://github.com/yourusername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+</p>
 
 ---
 
-### 🚢 Latest Deployments
+## 🔧 What I Do
 
-<!-- Add your recent deployments here -->
-🔹 Deployed Kubernetes cluster with Istio service mesh (2023)  
-🔹 Automated CI/CD pipeline for microservices architecture  
-🔹 Migrated on-prem infrastructure to AWS using Terraform  
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- Add your blog posts here using RSS feed -->
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-- [Automating Infrastructure with Terraform](https://medium.com/@yourprofile)
-- [Kubernetes Best Practices](https://medium.com/@yourprofile)
-- [Building CI/CD Pipelines with Jenkins](https://medium.com/@yourprofile)
+- 🧩 Automate and manage infrastructure with Ansible, Terraform, and Shell scripts
+- 🛠️ Maintain and monitor Linux systems
+- 🐳 Containerize everything with Docker and Kubernetes
+- 🔐 Harden and secure server environments
+- 👨‍💻 Write clean code to support infrastructure goals
 
 ---
 
-### ⚡️ Fun Fact:
-**I automate myself out of jobs... then get hired to automate more!** 🤖
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%" />
+</p>
 
 ---
 
-[![GitHub Snake Light](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)](https://github.com/yourusername)
+## 🧪 Featured Projects
 
-⭐️ From [Your Name](https://github.com/yourusername)
+- 🔐 [SecureServer](https://github.com/yourusername/secureserver): Hardened Linux server deployment
+- 📦 [DevOps Toolbox](https://github.com/yourusername/devops-toolbox): Dockerized admin toolkit
+- ⚙️ [CI/CD Pipelines](https://github.com/yourusername/cicd-pipelines): GitHub Actions & GitLab CI templates
+
+---
+
+## 📬 Reach Out
+
+Let's connect — I'm open to interesting projects, collaborations, or DevOps chats!
+
+- 📧 Email: [you@example.com](mailto:you@example.com)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+<p align="center"><em>"Automate the boring, secure the essential, and scale with purpose." 🧘‍♂️</em></p>
