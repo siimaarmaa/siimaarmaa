@@ -48,14 +48,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-- 🔐 [SecureServer](https://github.com/yourusername/secureserver): Hardened Linux server deployment
-- 📦 [DevOps Toolbox](https://github.com/yourusername/devops-toolbox): Dockerized admin toolkit
-- ⚙️ [CI/CD Pipelines](https://github.com/yourusername/cicd-pipelines): GitHub Actions & GitLab CI templates
-
----
-
 ## 📬 Reach Out
 
 Let's connect — I'm open to interesting projects, collaborations, or DevOps chats!
