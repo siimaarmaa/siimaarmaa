@@ -3,7 +3,7 @@
 ### 💻 Developer | 🛠️ System Administrator | 🚀 DevOps Engineer
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-you@example.com-red?style=flat-square&logo=gmail)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-you@example.com-red?style=flat-square&logo=gmail)](mailto:siim@aarmaa.ee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siimaarmaa/)
 
 ---
