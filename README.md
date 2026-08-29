@@ -37,37 +37,26 @@ I use the lab to test the same patterns I want in production: idempotent configu
 
 ## Toolbox
 
-| Area | Tools |
+Everyday tools I reach for first. This is a snapshot of the usual kit — **not a full inventory**. The rest depends on the job.
+
+| Area | Most used |
 | --- | --- |
-| Operating systems | Linux, Ubuntu, Debian |
-| Automation | Ansible, Bash, systemd |
+| Operating systems | Linux, Ubuntu |
+| Automation | Ansible, Bash |
 | Infrastructure as code | Terraform |
-| Platforms | Docker, Kubernetes, Nginx, Tomcat |
-| Delivery | Git, GitHub Actions, CI/CD |
-| Languages | Python, Java, HCL, Jinja |
+| Services | Nginx, Kubernetes |
+| Delivery | Git |
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
-## Featured work
-
-- **[Junior DevOps Assignment](https://github.com/siimaarmaa/Junior-DevOps-Assignment)** — Hetzner Cloud plus Ansible: provision a Debian host, put Nginx in front of local backends, add Basic Auth and a health endpoint. Idempotent roles and templates.
-- **[devops-home-work](https://github.com/siimaarmaa/devops-home-work)** — Spring PetClinic on Ubuntu 24.04 from a single playbook: Docker, Java, PostgreSQL, Nginx TLS, and GitHub Actions deploy.
-- **[Siim-Ansible](https://github.com/siimaarmaa/Siim-Ansible)** / **[Ansible-Koolitus](https://github.com/siimaarmaa/Ansible-Koolitus)** — Ansible templates and training material for building hosts from code.
-- **[Siim-Terraform](https://github.com/siimaarmaa/Siim-Terraform)** — Terraform project template for repeatable infrastructure.
-- **[Siim-Kubernetes](https://github.com/siimaarmaa/Siim-Kubernetes)** / **[kubernetes-bash](https://github.com/siimaarmaa/kubernetes-bash)** — Kubernetes layout and helper scripts for cluster work.
-- **[bash-login-proxy-ssh](https://github.com/siimaarmaa/bash-login-proxy-ssh)** — SSH login and proxy scripting for day-to-day operations.
-- **[Tomcat install log](https://github.com/siimaarmaa/Proovitoo.Paigalduslogi.rakadmin)** — Documented Ubuntu + Apache Tomcat install, written as a reproducible runbook.
 
 ## How I work
 
